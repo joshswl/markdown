@@ -24,5 +24,15 @@ Alt Heading Large
 Alt Heading Medium
 ---
 
-Reprehenderit cillum ad Lorem adipisicing labore aliqua aliquip nostrud nostrud dolor pariatur. Ea ex qui ullamco veniam magna non dolor cillum laborum. Excepteur reprehenderit exercitation eu irure ut sint dolor. Do esse in nostrud ex ex. Pariatur mollit magna enim dolore esse deserunt. Id irure eiusmod sit aute. Voluptate labore id commodo exercitation voluptate.
+<http://joshswl.com>
 
+[My GitHub](https://github.com/joshswl)
+
+[My HackerRank](https://hackerrank.com/joshswl "This is where I REALLY learn (title attribute goes here)")
+
+Check out my [site][1]! 
+
+I also have a [GitHub][github].
+
+[1]: http://joshswl.com
+[github]: https://github.com/joshswl
